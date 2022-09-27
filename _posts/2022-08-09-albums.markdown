@@ -1,0 +1,87 @@
+---
+layout: post
+title: "That whole albums thing"
+date: 2022-08-09 04:00 -0500
+categories: blog
+---
+<audio controls="controls" src="https://www.dropbox.com/s/4x6qs14wwyxsfcy/mix.mp3?raw=1">
+    Something fucked up if you see this.
+</audio>
+
+# Some background
+
+As a general guiding principle, I try not to pay much attention to Twitter's _quote prompt du jour_. But the one going around this past week gave me the opportunity to reflect on music I like and give recommendations to an audience I pretend actually cares, so I gave in and decided to engage in one of my favorite activities: putting a far greater amount of thought into something than it deserves.
+
+This particular version of the trend was adapted from one asking the same question of movies. This is made apparent by the accompanying image of a guy eating popcorn in a movie theatre. Except now the word _movie_ has been covered up by the word _album_. Couldn't put in the effort to find a picture of a guy jamming out or something I guess. So I crudely drew some headphones and a 3rd generation iPod on the guy. I've since seen at least one person using my shitty edit and I hope it spreads. It looks like this:
+
+![favorites](https://lh3.googleusercontent.com/KNdir9j_hZ2flWiNCE_AUCbv3TaFZ2wPZKV3rVH3X0MEPahZl7W6wCPSXnw2HXTC7Ds=w2400)
+
+The post ended up with 25 likes, meaning I've selected albums all the way down until 1998. For a while I was putting so much thought into each selection that I found the process closer to painful than I did fun. What eventually became freeing was interpreting the _"1 favorite album"_ part of the prompt as meaning _a_ favorite, not _the_ favorite. And so I could continue on without feeling I've slighted something, though I still did feel that way.
+
+# On selection criteria
+
+What I started out wanting to do was highlight some of the wilder favorites I have. I think it yields a much more interesting end product than it just being the same shit you've seen dozens of times. This did serve as a guideline for my selection process, but to some degree it ended up morphing into it just being a list of albums that mean a lot to me. Which is fine! Just, don't expect any true consistency in my choices.
+
+I also avoided repeats. I could have easily, for example, chosen A Winged Victory For the Sullen's debut album, but I knew Stars of the Lid would appear further into the list and as such chose something else. This created some weird juggling around of picks, but I do think a list without explicit repeats is more compelling. That said, I did choose an Aaron Dilloway solo album and a Wolf Eyes album from when he was still in the band, so again, extremely loose guidelines.
+
+I tried to not end up with a list of just ambient or noise or whatever, but on account of being a boring white guy the genre representation is pretty lacking. And for completely arbitrary reasons I decided against choosing a live album, so I guess that's part of the criteria I almost certainly would have abandoned had the likes gotten me all the way to 1977.
+
+Which, I guess, all of this is to say: I picked whatever the hell I felt like, for whatever the hell reasons I felt like.
+
+# On _Modern Jester_
+
+Here's a weird one. I may have fucked up a little bit in that my choice for 2012, Aaron Dilloway's _Modern Jester_, was originally released on cassette and CDr in 2008. However, the seven track version released in 2012 is the one that got any degree of media coverage and is also the one you will find if you search for it now of days, so I'm as technically correct as I am technically incorrect. This probably would have been arbitrary enough a reason for me to exclude it had I known, but I didn't, so: "oh well".
+
+But it gets deeper: the liner notes of the 2012 version of _Modern Jester_ claim that it was recorded from 2008–2011. Maybe that means that the tracks on the original release were recorded in 2008 and the tracks new to the 2012 version were recorded later; maybe it means that all of the tracks were rerecorded for the 2012 version. Impossible to say without being able to hear the 2008 version or asking Aaron himself, which I am not going to do. There are whole Wolf Eyes _albums_ that were "rereleased" from CDrs but which in fact contained completely different recordings, so who can say what the case is here.
+
+# Etc., and so forth, blah blah blah
+
+I wanted to make this post so that I could explain some of the process in a way that simply isn't possible in Twitter posts. It was a fun little thought experiment and one that maybe I'll end up continuing regardless of the number of likes. I would have loved to get far enough to be able to start talking about The Butthole Surfers or Supreme Dicks or Thinking Fellers Union Local 282 or another frontrunner for "favorite of all-time", but I don't have enough Twitter presence to get there. Probably for the best.
+
+There were also a great number of things I feel were terrible omissions, so maybe this will get me to take some dives into specific years if the interest is there. If I do, I will probably keep it off Twitter though, as I'm truly incapable of writing anything at all about an album in 280 characters. I can't write anything at all anymore anyway because I have gotten so fucking stupid in the past decade or so, but given unlimited words I can at least pretend.
+
+Hope even one person got anything out of this whole thing: if so, it is all worth it. Be well.
+
+# The playlist
+
+I have taken a song from each album and turned it into a playlist/"mixtape", which you can listen to in one of two ways:
+- Streaming as a full mix, embedded at the top of this page, or
+- As downloadable FLAC/V0 MP3 + `.m3u8` playlist files.
+  
+**DOWNLOAD**: [FLAC](https://drive.google.com/uc?export=download&id=1lY0eSapyQAWGKFSRum_UHupGpOtVYSj4) / [V0 MP3](https://drive.google.com/uc?export=download&id=1STX3-KGnkQeqph4QXCVYflFP9_FiWOJy)
+
+Spotify can suck on my ass, not using it for the past two years has been one of the greatest decisions of my life. Files for life.
+
+If you download the files, you should just be able to pop the included `.m3u8` playlist file into any music player so long as you keep it in the same directory as the music files. I definitely put a lot of work into making sure the playlist works correctly, but I can't guarantee it will work with, say, iTunes, which is a huge piece of shit and garbage and which does whatever it wants regardless of how little sense it might make. Definitely works in foobar2000 and VLC and the music player I use on my telephone.
+
+# The list in a more parsable form than a disjointed Twitter thread
+
+- **2022**: Duster - _Together_
+- **2021**: Floating Points, Pharoah Sanders & the London Symphony Orchestra - _Promises_
+- **2020**: LEYA - _Flood Dream_
+- **2019**: Kali Malone - _The Sacrificial Code_
+- **2018**: Respire - _Dénouement_
+- **2017**: Enhet för Fri Musik - _Det Finns Ett Hjärta Som För Dig_
+- **2016**: MMMD - _Pèkisyon Funebri_
+- **2015**: Julia Holter - _Have You in My Wilderness_
+- **2014**: Sunn O))) & Ulver - _Terrestrials_
+- **2013**: These New Puritans - _Field of Reeds_
+- **2012**: Aaron Dilloway - _Modern Jester_
+- **2011**: Tim Hecker - _Ravedeath, 1972_ & _Dropped Pianos_
+- **2010**: Women - _Public Strain_
+- **2009**: Jordaan Mason & the Horse Museum - _Divorce Lawyers I Shaved My Head_
+- **2008**: Paavoharju - _Laulu Laakson Kukista_
+- **2007**: Stars of the Lid - _and Their Refinement of the Decline_
+- **2006**: Liars - _Drum's Not Dead_
+- **2005**: Coil - _The Ape of Naples_
+- **2004**: Wolf Eyes - _Burned Mind_
+- **2003**: The Unicorns - _Who Will Cut Our Hair When We're Gone?_
+- **2002**: Boards of Canada - _Geogaddi_
+- **2001**: The Microphones - _"The Glow" pt. 2_
+- **2000**: Bohren & der Club of Gore - _Sunset Mission_
+- **1999**: Boredoms - _Vision Creation Newsun_
+- **1998**: The Renderers - _A Dream of the Sea_
+
+# The thread, if you wish to see any of my quick & shitty comments on the albums
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">2022:<br>I typically stay in tune with new music goings on, but I&#39;ve barely touched the damn stuff this year so I don&#39;t have much to choose from. But I do love Duster a whole lot and this has been one of the records I tend to put on when I can&#39;t think of anything else. It&#39;s good <a href="https://t.co/WVg2PVTw7N">pic.twitter.com/WVg2PVTw7N</a></p>&mdash; it&#39;s patrick time, as always (@skeletonhaver) <a href="https://twitter.com/skeletonhaver/status/1555729947674791936?ref_src=twsrc%5Etfw">August 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
