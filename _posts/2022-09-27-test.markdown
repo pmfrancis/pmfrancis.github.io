@@ -1,9 +1,0 @@
----
-layout: post
-title: "Test"
-date: 2022-09-27 04:00 -0500
-categories: blog
----
-I completely revamped the way I was hosting this Jekyll site and thus I am now trying to make sure it's all in order.
-
-*Blah* Blah **Blah**.
