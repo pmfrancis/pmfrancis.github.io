@@ -37,3 +37,10 @@ Nothing insofar as I'm concerned. This world sucks ass for everyone out there an
 Edit: I guess I should add that if you have any ideas re: diagnosis or what I should do that'd be a great help.
 
 Not going to proofread this, I'm typing this in a shitty web-based text editor on the toilet and it's longer than I thought it would be or want it to be. Ok bye.
+
+One more edit: I guess it makes some degree of sense to mention the things I have thus far tried, so:
+
+# What I've tried
+- Reflashing BIOS
+- Both possible combinations of using one of the two RAM sticks (this briefly seemed promising as I was able to boot into Windows for maybe two minutes, but it then froze and thus was likely a fluke)
+- Feeling fatalistic
