@@ -34,4 +34,6 @@ I don't think I need to explain why not having a computer in 2023 sucks, but: it
 # What you can do
 Nothing insofar as I'm concerned. This world sucks ass for everyone out there and the idea of being like "hey, my like $2000 computer isn't working, woe is me please help" is abhorrent to me when there are better people with worse problems. At least I have family I have been able to live with while being a huge failure. Other people don't. Idk. Unless you're really rich I guess, then buy me a new computer and place to live and give all my friends money too imo.
 
+Edit: I guess I should add that if you have any ideas re: diagnosis or what I should do that'd be a great help.
+
 Not going to proofread this, I'm typing this in a shitty web-based text editor on the toilet and it's longer than I thought it would be or want it to be. Ok bye.
