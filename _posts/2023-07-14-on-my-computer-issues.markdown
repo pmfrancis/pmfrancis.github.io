@@ -19,7 +19,7 @@ From there, I would never successfully get back into Windows again. Many times i
 It's really hard to say. The fact that it froze during an update process makes it more complicated. It could be that the freeze caused a data corruption that makes the OS basically unbootable. But it also could be that the freeze happened _because_ of a deeper hardware problem. If I had to really guess, I would say it's one of these things:
 
 - **Busted motherboard.** I do get the operation code `AA` on the motherboard, which is effectively useless information. It basically means it _thinks_ everything is good, but clearly it is not.
-- **Defective boot disk.** Potentially one of the cheaper fixes but also one of the worst in that it likely means a massive loss of data and let's be real, I am not much of a "back up" kind of person. More on this in a second.
+- ~~**Defective boot disk.** Potentially one of the cheaper fixes but also one of the worst in that it likely means a massive loss of data and let's be real, I am not much of a "back up" kind of person. More on this in a second.~~ Edit: probably ruled this out; after finding a way to make some boot disks I was unsuccessful in both booting into a Linux distro and even getting far enough into the Windows repair tools before the computer would freeze or restart.
 - **Bad CPU?** Damn wouldn't this one suck.
 - **Something else?** Who knows, computers are complex. Could be a lot of things.
 
@@ -44,3 +44,4 @@ One more edit: I guess it makes some degree of sense to mention the things I hav
 - Reflashing BIOS
 - Both possible combinations of using one of the two RAM sticks (this briefly seemed promising as I was able to boot into Windows for maybe two minutes, but it then froze and thus was likely a fluke)
 - Feeling fatalistic
+- Finally found a way to make some boot disks: tried a live Linux disk and a Windows boot disk. Both were unsuccessful.
