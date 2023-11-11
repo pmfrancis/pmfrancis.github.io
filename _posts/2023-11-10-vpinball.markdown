@@ -1,0 +1,42 @@
+---
+layout: post
+title: "A quick little VPX tutorial"
+date: 2023-11-10 02:00 -0500
+categories: blog
+---
+Visual Pinball X can be a real pain in the asshole to install, so I'm tossing together a real quick & rough little guide that might come of use to someone. I've had to install this thing a few times within the last month or two and it's fresh in my mind. So without further ado:
+
+1. Download [the latest installer](https://github.com/vpinball/vpinball/releases/download/v10.7.2-366-f94da1e/Main.Download.Installer.-.VPX72setup.exe) and install VPX. You shouldn't need to change any of the installation options unless you plan on setting up something more elaborate with multiple monitors for back glass, etc. I can't help you on that.
+   
+2. Now download the [the most recent beta](https://github.com/vpinball/vpinball/releases) version from the GitHub repo. As of writing this it is `VPX 10.8.0 Beta 5`. You will most likely want the one titled `VPinballX-10.8.0-1347-3d585e7-Release-win-x64.zip`, though I have occasionally heard there's some problems with the 64-bit version. This was a while ago though and I personally haven't had any issues. But if you want to be 100% sure on compatibility maybe get the x86 version. I think some new tables are actually utilizing the 64-bit builds though. You might be able to install both even?
+   
+3. Extract the contents of this download to your VPX install folder, the default was probably `C:\Visual Pinball\`, overwrite the files when it asks, etc.
+
+4. Download [the newest version of VPinMAME](https://github.com/vpinball/pinmame/releases). There will be a ton of different files in there when you click on it; you will want the one with this filename convention: `VPinMAME-3.6-XXX-XXXXXXXX-win-x64.zip`. Make sure it's the **V**PinMAME version, make sure it's the one that does not have `sc` in the filename. And of course if you downloaded the x86 version instead of x64, I'm sure you know what you need to do.
+
+5. Extract the files from this zip into the VPinMAME directory in your VPX install folder. It will be `~\Visual Pinball\VPinMAME`. Overwrite files as necessary, you know the whole drill.
+
+6. Download the [VPinMAME ROMset](https://archive.org/details/vpinmame). The main directory will have to be extracted somewhere, wherever you wish, but all the roms inside should stay as `.zip` files.
+
+7. Open up `Setup64` inside the `VPinMAME` folder and click `Install`. If everything has gone right it should then say "Visual PinMAME Version 3.6 is currently installed on your computer". Then click `Setup Paths...` and point it to the ROMs directory you made in the step above. You should then be able to quit out of the setup program.
+
+8. You're pretty much all set! Now you just need to download tables. Most of the tables are all hosted on forums you need to register for. [VPUniverse](https://vpuniverse.com) is a good one. What you'll come to find is there are a lot of versions of tables, some better than others, so on and so forth, blah blah blah. I tend to think any of the ones the group "VPW" make are really good, so look for that.
+
+9. Tables can go in the `~\Visual Pinball\tables` folder, or if you're feeling adventurous, you can install them in some other folder, but you need to change some config file or something in the Windows registry for VPX to point to the correct directory when it launches. I'll look it up and update if I remember how to do this, it's a pain in the dick and I can't remember how to do it even though I've done it twice.
+
+10. Open up `VPinballX64.exe`. You might want to not load a table right off the bat and go to `Preferences > Configure Keys` to look at/change any bindings. Then load up a table and play! If you do it as VPX loads it should go right into playing it; if it's on the editor you can play by hitting `F5`.
+
+One thing you might notice is that by default some tables' speakers are extremely fucking quiet in comparison to the sound of their mechanics. This is because tables often default to approx. 50% volume. To change this you will need to go into the operator settings and dick around in the menus, which use the following keyboard commands:
+    
+- `End`: Open/close the coin door
+- `8/9`: Down/Up
+- `0`: Enter
+- `7`: Esc/back
+
+Most of the time volume will be changed simply by opening the door and using "up/down", but sometimes there's a discrete option within the menus. All manufacturers are a little different!
+
+Note that you can bring up all the keyboard shortcuts such as those above by pressing `F2`. I've found that it usually pops up _under_ the fullscreen'd game though for some reason.
+
+I've found that sometimes a table doesn't start on first launch. I think it has to do with creating and initializing an NVRAM file, but I don't know for sure. Just launch it again and it should do what you want it to this time.
+
+Have fun!
