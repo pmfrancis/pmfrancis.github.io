@@ -4,6 +4,8 @@ title: "A quick little VPX tutorial"
 date: 2023-11-10 02:00 -0500
 categories: blog
 ---
+_Edit: Putting in a brief foreword here. A lot of people recommend something called "Baller Installer", which apparently makes the whole process of setting up VPX a little easier. I've never used it, but it very well could be worth it for a clean install. Just make sure to opt-in to the beta build of VPX, since it's becoming more common for new tables to require VPX 10.8._
+
 Visual Pinball X can be a real pain in the asshole to install, so I'm tossing together a real quick & rough little guide that might come of use to someone. I've had to install this thing a few times within the last month or two and it's fresh in my mind. So without further ado:
 
 1. Download [the latest installer](https://github.com/vpinball/vpinball/releases/download/v10.7.2-366-f94da1e/Main.Download.Installer.-.VPX72setup.exe) and install VPX. You shouldn't need to change any of the installation options unless you plan on setting up something more elaborate with multiple monitors for back glass, etc. I can't help you on that.
