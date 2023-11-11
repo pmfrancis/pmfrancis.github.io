@@ -20,7 +20,7 @@ Visual Pinball X can be a real pain in the asshole to install, so I'm tossing to
 
 7. Open up `Setup64` (edit: or just `Setup` if you downloaded the x86 version) inside the `VPinMAME` folder and click `Install`. If everything has gone right it should then say "Visual PinMAME Version 3.6 is currently installed on your computer". Then click `Setup Paths...` and point it to the ROMs directory you made in the step above. You should then be able to quit out of the setup program.
 
-8. You're pretty much all set! Now you just need to download tables. Most of the tables are all hosted on forums you need to register for. [VPUniverse](https://vpuniverse.com) is a good one. What you'll come to find is there are a lot of versions of tables, some better than others, so on and so forth, blah blah blah. I tend to think any of the ones the group "VPW" make are really good, so look for that.
+8. You're pretty much all set! Now you just need to download tables. Most of the tables are all hosted on forums you need to register for. [VPUniverse](https://vpuniverse.com/files/category/82-vpx-pinball-tables/) is a good one. What you'll come to find is there are a lot of versions of tables, some better than others, so on and so forth, blah blah blah. I tend to think any of the ones the group "VPW" make are really good, so look for that.
 
 9. Tables can go in the `~\Visual Pinball\tables` folder, or if you're feeling adventurous, you can install them in some other folder, but you need to change some config file or something in the Windows registry for VPX to point to the correct directory when it launches. I'll look it up and update if I remember how to do this, it's a pain in the dick and I can't remember how to do it even though I've done it twice.
 
