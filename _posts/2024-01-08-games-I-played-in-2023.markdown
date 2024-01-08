@@ -7,7 +7,7 @@ categories: blog
 
 <img src="/images/games2023/dysphoria.png" width="800"/>
 
-_Note: I wrote this thing for a Discord server, but maybe it doesn't make a whole lot of sense to keep it locked away, so I'm just publishing it here without any edits (unless I reread this and later change my mind). I there are some omissions I later thought of, I would have written this all better if it hadn't been for a one-off Discord post, so and and so forth, but ultimately: who cares._
+_Note: I wrote this thing for a Discord server, but maybe it doesn't make a whole lot of sense to keep it locked away, so I'm just publishing it here without any edits (unless I reread this and later change my mind). There are some omissions I later thought of, I would have written this all better if it hadn't been for a one-off Discord post, so and and so forth, but ultimately: who cares._
 
 Yet another year has gone by. Crazy stuff, huh. I feel like I no longer process any information; everything just washes over me. What happened this year? Who the hell knows, couldn't tell you. I don't know I've played a single game released this year so instead you'll get a list of some things I've played and liked this year. Whatever. The SMW romhacks are actually from this year. That's good enough.
 
