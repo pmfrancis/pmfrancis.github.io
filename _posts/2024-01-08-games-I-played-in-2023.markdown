@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "tuffghost's list of games he liked in the year known as "2023""
+title: "tuffghost's list of games he liked in the year known as \"2023\""
 date: 2024-01-08 02:00 -0500
 categories: blog
 ---
