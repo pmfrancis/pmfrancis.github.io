@@ -109,4 +109,5 @@ There you go. There's the fucking list. If you like it, I don't have a lot of mo
 
 just kidding don't do that. but also...
 
-(I'll probably put these all into a YT playlist sometime soon, look out for that)
+EDIT: I made it into a Youtube playlist. Listen to it if you want.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=sBu2t8Sd8XwqQ2uP&amp;list=PLbSMaZaqWSp-ZRLXVnGC3b0LRVmsm9zE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
