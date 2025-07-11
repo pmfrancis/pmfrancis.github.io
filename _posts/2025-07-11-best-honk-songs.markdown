@@ -14,6 +14,8 @@ I also tried to avoid picking the same artist more than once, though there's def
 
 And so, here it is. I did one final passthrough and culled quite a few so the list isn't 100 long anymore. Did I take out a bunch I will later regret and leave on a bunch I end up not that enthusiastic about? Certainly. Did my initial process miss out on some of the best shit? Also certainly. Sometimes, however, you just gotta say "Who care", so: who care?
 
+Oh and if I were hard pressed to pick on singular favorite? Let's go with "Bloodstains (Darkness version)".
+
 # THPS1
 - Dead Kennedys - "Police Truck"
 - Unsane - "Committed"
