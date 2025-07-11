@@ -102,4 +102,9 @@ And so, here it is. I did one final passthrough and culled quite a few so the li
 - FIDLAR - "West Coast"
 
 There you go. There's the fucking list. If you like it, I don't have a lot of money and really what to play THPS 3+4... :) :)
+
 [Ko-fi](https://ko-fi.com/skeletonhaver)
+
+just kidding don't do that. but also...
+
+(I'll probably put these all into a YT playlist sometime soon, look out for that)
